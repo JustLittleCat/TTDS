@@ -2,7 +2,7 @@ local RecVersion = "V2.3"
 print("Floppa is pro")
 local ReplicatedStorage = game:GetService("ReplicatedStorage");
 local State = ReplicatedStorage.State;
-local RS = game:WaitForChild('ReplicatedStorage')
+local RS = game:WaitForChild("ReplicatedStorage")
 local RSRF = RS:WaitForChild("RemoteFunction")
 local RSRE = RS:WaitForChild("RemoteEvent")
 getgenv().Towers = {}
