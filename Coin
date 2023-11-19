@@ -2,6 +2,7 @@
 local TDS = loadstring(game:HttpGet("https://raw.githubusercontent.com/banbuskox/dfhtyxvzexrxgfdzgzfdvfdz/main/ckmhjvskfkmsStratFun2", true))() 
 TDS:Loadout("Warden", "DJ Booth", "Commander", "Accelerator", "Farm") 
 TDS:Map("Grass Isle", true, "Survival")
+TDS:Mode('Normal' --[[ !DONT TOUCH! THIS IS CORRECT, IN GAME FILES Molten IS NAMED Normal ]])
 TDS:Place('Warden', 10.495394706726074, 1.000004768371582, -31.254945755004883, 0, 0, 12.4, false, 0, 0, 0, false)
 TDS:Upgrade(1, 1, 0, 3.8, true)
 TDS:Place('Warden', 12.113655090332031, 1.000004768371582, -29.796733856201172, 3, 0, 5.3, false, 0, 0, 0, false)
